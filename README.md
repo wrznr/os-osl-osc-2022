@@ -1,2 +1,2 @@
-# slide-template
-Template for [`remarkjs`](https://remarkjs.com/)-based slides deployed via GitHub Pages
+# os-osl-osc-2022
+Slides for the OS talk at the INSTITUTE AND POLICLINIC OF OCCUPATIONAL AND SOCIAL MEDICINE
