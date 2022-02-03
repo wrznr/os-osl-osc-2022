@@ -244,6 +244,23 @@ count: false
 ]
 ]
 
+---
+
+# Why not Open Science?
+
+1. “Copyright”
+2. **“Marketability”**
+3. “Effort”
+
+.cols[
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Schaubild_Partielles_Gleichgewicht.png" width="650px"/>
+]
+.fifty[
+<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="650px"/>
+]
+]
+
 
 ---
 
