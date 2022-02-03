@@ -290,13 +290,35 @@ count: false
 
 # The SLUB Open Science Lab
 
-1. Bundling of advisory and educational services to support an open research cycle
-2. Attractive and modernly equipped work, event and meeting place
-3. Centrally situated, university-wide icon for the importance of open science
+1. Bundling of advisory and educational **services** to support an open research cycle
+2. Attractive and modernly equipped work, event and meeting **place**
+3. Centrally situated, university-wide **icon** for the importance of open science
 
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="300px"/>
 </center>
+
+---
+
+# The SLUB Open Science Lab
+
+
+.cols[
+.fifty[
+- Planned since 2018
+- Strategy paper “SLUB 2025”
+- Modernization of the service portfolio pf scientific libraries
+    + SLUB Makerspace
+    + SLUB TextLab
+    + Musicspace/A-V Lab
+    +...
+- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
+]
+.fifty[
+<img src="img/slub-2025.png" width="650px"/>
+]
+]
+
 
 ---
 
