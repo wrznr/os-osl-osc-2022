@@ -257,7 +257,7 @@ count: false
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Schaubild_Partielles_Gleichgewicht.png" width="650px"/>
 ]
 .fifty[
-<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="650px"/>
+<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="550px"/>
 ]
 ]
 
@@ -289,6 +289,14 @@ count: false
 ---
 
 # The SLUB Open Science Lab
+
+1. Bundling of advisory and educational services to support an open research cycle
+2. Attractive and modernly equipped work, event and meeting place
+3. Centrally situated, university-wide icon for the importance of open science
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="500px"/>
+</center>
 
 ---
 
