@@ -1,0 +1,20 @@
+digraph {
+    transp[label="transparency", shape="plaintext", fontname="Sans"];
+    availa[label="availability", shape="plaintext", fontname="Sans"];
+    reprod[label="reproducibility", shape="plaintext", fontname="Sans"];
+    reusab[label="reusability", shape="plaintext", fontname="Sans"];
+    quantity[label="↗ quantity", shape="plaintext", fontname="Sans"];
+    quality[label="↗ quality", shape="plaintext", fontname="Sans"];
+    visib[label="visibility", shape="plaintext", fontname="Times-Roman-bold"];
+
+    transp -> reprod;
+    transp -> reusab;
+    availa -> reusab;
+    availa -> reprod;
+    reusab -> quantity;
+    reprod -> quality;
+
+    quality -> visib;
+    quantity -> visib;
+    
+}

@@ -261,6 +261,23 @@ count: false
 ]
 ]
 
+---
+
+# Why not Open Science?
+
+1. “Copyright”
+2. “Marketability”
+3. **“Effort”**
+
+.cols[
+.fifty[
+<img src="kunst.png" width="650px"/>
+]
+.fifty[
+<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="650px"/>
+]
+]
+
 
 ---
 
