@@ -257,7 +257,7 @@ count: false
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Schaubild_Partielles_Gleichgewicht.png" width="650px"/>
 ]
 .fifty[
-<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="550px"/>
+<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="350px"/>
 ]
 ]
 
@@ -271,10 +271,10 @@ count: false
 
 .cols[
 .fifty[
-<img src="kunst.png" width="650px"/>
+<img src="img/kunst.png" width="650px"/>
 ]
 .fifty[
-<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="650px"/>
+<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="450px"/>
 ]
 ]
 
