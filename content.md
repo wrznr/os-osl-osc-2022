@@ -149,8 +149,8 @@ count: false
 
 # Open Methodology
 
-    + **Preregistration**: Early sharing of research questions and approach
-    + Open methodology: Methods for data acquisition and analysis
+- **Preregistration**: Early sharing of research questions and approach
+- Open methodology: Methods for data acquisition and analysis
 
 ---
 
@@ -216,7 +216,7 @@ count: false
 # Why Open Science?
 
 <center>
-<img src="img/why.svg" width="550px"/>
+<img src="img/why.svg" width="500px"/>
 </center>
 
 ---
