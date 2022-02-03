@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>Date</td>
+      <td>2022-02-04</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -222,6 +222,28 @@ count: false
 ---
 
 # Why not Open Science?
+
+1. “Copyright”
+2. “Marketability”
+3. “Effort”
+
+---
+
+# Why not Open Science?
+
+1. **“Copyright”**
+2. “Marketability”
+3. “Effort”
+
+.cols[
+.fifty[
+<img src="img/johnny_automatic_fastening_the_wheels.svg" width="650px"/>
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Backstube_B%C3%A4ckerei_Kronenberg_Dezember_1941.jpg/800px-Backstube_B%C3%A4ckerei_Kronenberg_Dezember_1941.jpg" width="650px"/>
+]
+]
+
 
 ---
 

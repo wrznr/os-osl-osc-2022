@@ -78,7 +78,7 @@
 <!-- visib -->
 <g id="node7" class="node">
 <title>visib</title>
-<text text-anchor="middle" x="113" y="-14.3" font-family="Sans bold" font-size="14.00">visibility</text>
+<text text-anchor="middle" x="113" y="-14.3" font-family="Times-Roman-bold" font-size="14.00">visibility</text>
 </g>
 <!-- quantity&#45;&gt;visib -->
 <g id="edge8" class="edge">
