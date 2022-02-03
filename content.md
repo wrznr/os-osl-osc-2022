@@ -295,7 +295,7 @@ count: false
 3. Centrally situated, university-wide icon for the importance of open science
 
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="500px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="300px"/>
 </center>
 
 ---
