@@ -149,7 +149,7 @@ count: false
 # Open Access
 
 <center>
-<img src="img/ezeit.png" width="600px"/>
+<img src="img/ezeit.png" width="700px"/>
 </center>
 
 ---
@@ -220,7 +220,7 @@ count: false
 # Open Source
 
 <center>
-<img src="img/detectron2.png" width="600px"/>
+<img src="img/detectron2.png" width="700px"/>
 </center>
 
 ---
@@ -228,7 +228,7 @@ count: false
 # Open Source
 
 <center>
-<img src="img/tesseract.png" width="600px"/>
+<img src="img/tesseract.png" width="700px"/>
 </center>
 
 ---
@@ -243,7 +243,7 @@ count: false
 - Alternatives for measuring scientific outreach
     + Moving beyond *Journal Impact Factor* **and** *Web of Science*
 <center>
-<img src="img/eval.png" width="300px"/>
+<img src="img/eval.png" width="350px"/>
 </center>
 
 ---
