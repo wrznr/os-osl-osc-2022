@@ -389,17 +389,25 @@ count: false
 ]
 ]
 
-
 ---
 
-class: part-slide
-count: false
+# The SLUB Open Science Lab
 
-# An Open Science Center for Dresden?
-
----
-
-# An Open Science Center for Dresden?
+.cols[
+.fifty[
+- Planned since 2018
+- Strategy paper “SLUB 2025”
+- Modernization of the service portfolio pf scientific libraries
+    + SLUB Makerspace
+    + SLUB TextLab
+    + Musicspace/A-V Lab
+    + ...
+- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
+]
+.fifty[
+<img src="img/floor_plan.png" width="350px"/>
+]
+]
 
 ---
 
