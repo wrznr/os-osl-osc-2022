@@ -243,7 +243,7 @@ count: false
 - Alternatives for measuring scientific outreach
     + Moving beyond *Journal Impact Factor* **and** *Web of Science*
 <center>
-<img src="img/eval.png" width="350px"/>
+<img src="img/eval.png" width="400px"/>
 </center>
 
 ---
