@@ -209,6 +209,22 @@ count: false
 
 ---
 
+# Open Source
+
+<center>
+<img src="img/detectron2.png" width="600px"/>
+</center>
+
+---
+
+# Open Source
+
+<center>
+<img src="img/tesseract.png" width="600px"/>
+</center>
+
+---
+
 # Open Evaluation
 
 - Development of a **fair evaluation** system based on standardized protocols and transparent metrics
