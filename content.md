@@ -39,7 +39,7 @@ class: title-slide
 count: false
 
 # Open Science
-## An introduction considering the specific context in Dresden
+## An introduction with an outlook to the SLUB Open Science Lab
 
 ---
 
@@ -49,9 +49,7 @@ count: false
     + Scientific method and open science practices
     + The openness puzzle
     + Pros and Cons
-- Open Science in Dresden
-    + The SLUB Open Science Lab
-    + An Open Science Center for Dresden?
+- The SLUB Open Science Lab
 
 ---
 
@@ -116,6 +114,7 @@ count: false
 
 # Open X
 
+- Not a strict terminology
 - Not a complete picture
     + Open Innovation
     + Open Leadership
@@ -149,8 +148,24 @@ count: false
 
 # Open Methodology
 
+.cols[
+.fifty[
+- Opening up methods to achieve scientific results 
+    + Data acquisition
+    + Data analysis
 - **Preregistration**: Early sharing of research questions and approach
-- Open methodology: Methods for data acquisition and analysis
+    + Preregistered reports
+        * Twostage reviewing process
+        * Often with early acceptance
+        * **Less** file drawer research, *p*-hacking, HARKing
+    + [Open Science Framework](https://osf.io)
+]
+.fifty[
+<center>
+<img src="img/rep.png" width="650px"/>
+</center>
+]
+]
 
 ---
 
@@ -185,6 +200,7 @@ count: false
     + Free use vs. modifiability
     + Adopted by software companies
 - `GitHub` as the de-facto standard for publishing research software
+- Together with OA, OM, OD → **Open Reproducible Research**
 ]
 .fifty[
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg" width="650px"/>
@@ -201,15 +217,49 @@ count: false
         * Published reviews
         * Wider contribution possibilities for the scientific community
 - Alternatives for measuring scientific outreach
-- Together with OA, OD, OS → **Open Reproducible Research**
+    + Moving beyond *Journal Impact Factor* **and** *Web of Science*
 
 ---
 
 # Open Educational Resources
 
+.cols[
+.fifty[
+- Free access to **teaching and learning materials** and their (un-)restricted reusability
+    + Not strictly part of Open Science
+    + Important part of an **open academic culture**
+- Dedicated platforms like `Opal` and aggregators like [`OERSI`](https://oersi.de/)
+- Increased relevance during the covid-19 pandemic
+    + Barrier-free
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="300px"/>
+<p style="font-size:0.5rem;margin-top:0px">By Jonathasmello - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
+</center>
+]
+]
+
 ---
 
 # Open Cultural Heritage
+
+.cols[
+.fifty[
+- Free access to **archival holdings, library collections and works of art** and their (un-)restricted reusability
+- Often granted through digitization
+- Multi-dimensional access
+    + Materiality!
+- Including descriptions of the creative process and provenance
+]
+.fifty[
+<center>
+<img src="https://miro.medium.com/max/1000/0*cRU6MAUaDr6fT0fS" width="300px"/>
+<p style="font-size:0.5rem;margin-top:0px">By Open Knowledge Foundation - http://openglam.org/files/2012/04/OpenGLAM-logo.png, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25209995</p>
+</center>
+]
+]
+
 
 ---
 
@@ -274,7 +324,7 @@ count: false
 <img src="img/kunst.png" width="650px"/>
 ]
 .fifty[
-<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="450px"/>
+<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="250px"/>
 ]
 ]
 
@@ -311,11 +361,31 @@ count: false
     + SLUB Makerspace
     + SLUB TextLab
     + Musicspace/A-V Lab
-    +...
+    + ...
 - Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
 ]
 .fifty[
-<img src="img/slub-2025.png" width="650px"/>
+<img src="img/slub-2025.png" width="350px"/>
+]
+]
+
+---
+
+# The SLUB Open Science Lab
+
+- Grand opening originally planned for 2020
+- Interim at Zellescher Weg 21 (*zell21*)
+
+.cols[
+.fifty[
+<center>
+<img src="http://photos.wikimapia.org/p/00/00/51/72/45_big.jpg" width="350px"/>
+</center>
+]
+.fifty[
+<center>
+<img src="img/zell21.png" width="350px"/>
+</center>
 ]
 ]
 
