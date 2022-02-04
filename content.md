@@ -149,7 +149,7 @@ count: false
 # Open Access
 
 <center>
-<img src="img/ezeit.png" width="700px"/>
+<img src="img/ezeit.png" width="750px"/>
 </center>
 
 ---
@@ -220,7 +220,7 @@ count: false
 # Open Source
 
 <center>
-<img src="img/detectron2.png" width="700px"/>
+<img src="img/detectron2.png" width="750px"/>
 </center>
 
 ---
@@ -228,7 +228,7 @@ count: false
 # Open Source
 
 <center>
-<img src="img/tesseract.png" width="700px"/>
+<img src="img/tesseract.png" width="750px"/>
 </center>
 
 ---
