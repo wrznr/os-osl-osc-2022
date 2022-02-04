@@ -146,6 +146,14 @@ count: false
 
 ---
 
+# Open Access
+
+<center>
+<img src="img/ezeit.png" width="600px"/>
+</center>
+
+---
+
 # Open Methodology
 
 .cols[
