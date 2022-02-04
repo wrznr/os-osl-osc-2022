@@ -395,14 +395,16 @@ count: false
 
 .cols[
 .fifty[
-- Planned since 2018
-- Strategy paper “SLUB 2025”
-- Modernization of the service portfolio pf scientific libraries
-    + SLUB Makerspace
-    + SLUB TextLab
-    + Musicspace/A-V Lab
-    + ...
-- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
+- Mixture of bookable and freely usable workplaces
+- Three larger event rooms
+    + OSL 1: up to 70 p.
+    + OSL 2 & 3: up to 30 p.
+    + Each with flexible furniture
+- Open Science Desk
+- Technical equipment for hybrid events
+    + Projectors, digital whiteboards
+    + Mobile cameras, microphones, speakers etc.
+- **Kitchen**
 ]
 .fifty[
 <img src="img/floor_plan.png" width="350px"/>
