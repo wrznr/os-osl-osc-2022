@@ -218,6 +218,9 @@ count: false
         * Wider contribution possibilities for the scientific community
 - Alternatives for measuring scientific outreach
     + Moving beyond *Journal Impact Factor* **and** *Web of Science*
+<center>
+<img src="img/eval.png" width="300px"/>
+</center>
 
 ---
 
