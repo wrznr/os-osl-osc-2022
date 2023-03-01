@@ -25,10 +25,10 @@ layout: true
       <td style="text-align:left">Referat 4.3</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>2022-02-04</b></td>
+      <td style="font-size:8pt"><b>2023-03-01</b></td>
     </tr>
-    <tr>
-      <td style="font-size:8pt">IPAS-Institutskolloquium</td>
+    <tr>Information Event on NFDI, Research Data Management and Open Science
+      <td style="font-size:8pt"></td>
     </tr>
   </table>
 </div>
@@ -108,6 +108,73 @@ count: false
 
 <center>
 <img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="550px"/>
+</center>
+
+---
+
+# Advisory and educational services
+
+.cols[
+.sixty[
+- Support of an open scientific culture central part of
+  [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
+    ]
+.fourty[
+<center>
+<img src="img/os_comp.png" width="300px"/>
+</center>
+]
+]
+- Services around an open research cycle
+    * **Open Access**: Financing and licensing issues; publication infrastructure
+    * **Open Data**: (Meta-)Data formats; repositories; technical workflows
+    * **Open Methodology**: Pregistration and registered reports; Open Science Framework
+    * **Open Evaluation**: Bibliometric analyses for optimized outreach and objective impact estimation
+
+---
+
+# Advisory and educational services
+
+- Services in an openness ecosystem
+    * **Open Educational Resources**: Methodology and tools; licensing issues
+    * **Citizen Science**: Connecting professional and non-professional scientific contexts
+    * **Open Science practices**: Advisory programme for Horizon Europe applications
+    * **Science communication**: Scientific blogging; predatory journals; academic identity management
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="300px"/>
+</center>
+
+---
+
+# Advisory and educational services
+
+- **Talks**, e.g. at
+    * International Open Access Week
+    * Graduate Academy
+    * Lessons in Open Science
+- **Individual advice**, e.g. at
+    * SLUB Knowledge Bar
+    * Subject librarians
+    * SLUB Helpdesk
+- **Self-study materials** on
+    * [YouTube](https://www.youtube.com/user/slubdresden)
+    * [Opal](https://bildungsportal.sachsen.de/opal/auth/repository/catalog/548470806;jsessionid=1E37A405717942198827CEFF6E38A0D8.opalN5)
+
+---
+
+# Advisory and educational services
+
+- In cooperation with academic partners at TUD (and beyond)
+    * [Service Center Research Data](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten)
+    * [Centre for Interdisciplinary Learning and Teaching (ZiLL)](https://tu-dresden.de/tu-dresden/organisation/rektorat/prorektor-bildung/zill)
+    * [European Project Center](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/european-project-center)
+    * [Open Science Initiative](https://tu-dresden.de/mn/psychologie/die-fakultaet/open-science)
+    * [SaxFDM](https://saxfdm.de/)
+    * ...
+
+<center>
+<img src="img/collaboration.jpg" width="350px"/>
 </center>
 
 ---
