@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>2022-02-04</td>
+      <td>2023-03-01</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
