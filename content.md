@@ -39,7 +39,7 @@ class: title-slide
 count: false
 
 # Open Science
-## An introduction with an outlook to the SLUB Open Science Lab
+## An introduction with a quick glance at the SLUB Open Science Lab
 
 ---
 
