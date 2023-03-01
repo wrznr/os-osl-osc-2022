@@ -27,8 +27,8 @@ layout: true
     <tr>
       <td style="font-size:8pt"><b>2023-03-01</b></td>
     </tr>
-    <tr>Information Event on NFDI, Research Data Management and Open Science
-      <td style="font-size:8pt"></td>
+    <tr>
+      <td style="font-size:8pt">Information Event on NFDI, Research Data Management and Open Science</td>
     </tr>
   </table>
 </div>
