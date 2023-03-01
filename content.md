@@ -48,7 +48,7 @@ count: false
 - What is *open science*?
     + Scientific method and open science aspects
     + The openness puzzle
-    + Pros and Cons
+    + (Pros and Cons)
 - The SLUB Open Science Lab
 
 ---
