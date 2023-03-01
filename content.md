@@ -357,6 +357,98 @@ count: false
 
 ---
 
+class: part-slide
+count: false
+
+# The SLUB Open Science Lab
+
+---
+
+# The SLUB Open Science Lab
+
+1. Bundling of advisory and educational **services** to support an open research cycle
+2. Attractive and modernly equipped work, event and meeting **place**
+3. Centrally situated, university-wide **icon** for the importance of open science
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="300px"/>
+</center>
+
+---
+
+# The SLUB Open Science Lab
+
+
+.cols[
+.fifty[
+- Planned since 2018
+- Strategy paper “SLUB 2025”
+- Modernization of the service portfolio pf scientific libraries
+    + SLUB Makerspace
+    + SLUB TextLab
+    + Musicspace/A-V Lab
+    + ...
+- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
+]
+.fifty[
+<img src="img/slub-2025.png" width="350px"/>
+]
+]
+
+---
+
+# The SLUB Open Science Lab
+
+- Grand opening in November 2022
+- Interim at Zellescher Weg 21 (*zell21*)
+
+.cols[
+.fifty[
+<center>
+<img src="http://photos.wikimapia.org/p/00/00/51/72/45_big.jpg" width="350px"/>
+</center>
+]
+.fifty[
+<center>
+<img src="https://blog.slub-dresden.de/fileadmin/_processed_/5/5/csm_Titelbild_2022-10-13_Interim-OSL_OEA7400_c1aedc443d.jpg" width="350px"/>
+</center>
+]
+]
+
+---
+
+# The SLUB Open Science Lab
+
+.cols[
+.fifty[
+- Mixture of bookable and freely usable workplaces
+- Three larger event rooms
+    + OSL 1: up to 70 p.
+    + OSL 2 & 3: up to 30 p.
+    + Each with flexible furniture
+- Open Science Desk
+- Technical equipment for hybrid events
+    + Projectors, digital whiteboards
+    + Mobile cameras, microphones, speakers etc.
+- **Kitchen**
+]
+.fifty[
+<img src="https://blog.slub-dresden.de/fileadmin/_processed_/3/7/csm_2022-11-29_OpenScienceLab_OEA7782_d79b94eef2.jpg" width="350px"/>
+]
+]
+
+---
+
+class: part-slide
+
+# Many thanks for your attention!
+
+<center>
+<a href="https://wrznr.github.io/os-osl-osc-2022/">wrznr.github.io/os-osl-osc-2022</a>
+</center>
+
+---
+
 # Why Open Science?
 
 <center>
@@ -422,95 +514,3 @@ count: false
 ]
 ]
 
-
----
-
-class: part-slide
-count: false
-
-# The SLUB Open Science Lab
-
----
-
-# The SLUB Open Science Lab
-
-1. Bundling of advisory and educational **services** to support an open research cycle
-2. Attractive and modernly equipped work, event and meeting **place**
-3. Centrally situated, university-wide **icon** for the importance of open science
-
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="300px"/>
-</center>
-
----
-
-# The SLUB Open Science Lab
-
-
-.cols[
-.fifty[
-- Planned since 2018
-- Strategy paper “SLUB 2025”
-- Modernization of the service portfolio pf scientific libraries
-    + SLUB Makerspace
-    + SLUB TextLab
-    + Musicspace/A-V Lab
-    + ...
-- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
-]
-.fifty[
-<img src="img/slub-2025.png" width="350px"/>
-]
-]
-
----
-
-# The SLUB Open Science Lab
-
-- Grand opening originally planned for 2020
-- Interim at Zellescher Weg 21 (*zell21*)
-
-.cols[
-.fifty[
-<center>
-<img src="http://photos.wikimapia.org/p/00/00/51/72/45_big.jpg" width="350px"/>
-</center>
-]
-.fifty[
-<center>
-<img src="img/zell21.png" width="350px"/>
-</center>
-]
-]
-
----
-
-# The SLUB Open Science Lab
-
-.cols[
-.fifty[
-- Mixture of bookable and freely usable workplaces
-- Three larger event rooms
-    + OSL 1: up to 70 p.
-    + OSL 2 & 3: up to 30 p.
-    + Each with flexible furniture
-- Open Science Desk
-- Technical equipment for hybrid events
-    + Projectors, digital whiteboards
-    + Mobile cameras, microphones, speakers etc.
-- **Kitchen**
-]
-.fifty[
-<img src="img/floor_plan.png" width="350px"/>
-]
-]
-
----
-
-class: part-slide
-
-# Many thanks for your attention!
-
-<center>
-<a href="https://wrznr.github.io/os-osl-osc-2022/">wrznr.github.io/os-osl-osc-2022</a>
-</center>
