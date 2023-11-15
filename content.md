@@ -6,11 +6,11 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>2023-03-01</td>
+      <td>2023-11-15</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
-      <td style="text-align:right">Referat 4.3</td>
+      <td style="text-align:right">Open Science Dept.</td>
       <td />
     </tr>
   </table>
@@ -22,13 +22,13 @@ layout: true
       <td style="text-align:left"><b>Kay-Michael Würzner</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Referat 4.3</td>
+      <td style="text-align:left">Open Science Dept.</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>2023-03-01</b></td>
+      <td style="font-size:8pt"><b>2023-11-15</b></td>
     </tr>
     <tr>
-      <td style="font-size:8pt">Information Event on NFDI, Research Data Management and Open Science</td>
+      <td style="font-size:8pt">Dresden School of Clinical Science: Key competencies</td>
     </tr>
   </table>
 </div>
@@ -38,7 +38,7 @@ layout: true
 class: title-slide
 count: false
 
-# Open Science
+# How to practice Open Science
 ## An introduction with a quick glance at the SLUB Open Science Lab
 
 ---
@@ -124,6 +124,10 @@ count: false
     + Care for **accessibility**: *documentation*
     + Mind the **interoperability**: *file format*
     + Clarify **reuse**: *license*
+- Early sharing
+    + Make knowledge available asap.
+    + Involve others
+    + Be open for feedback
 
 ---
 
@@ -211,7 +215,7 @@ count: false
 - Together with OA, OM, OD → **Open Reproducible Research**
 ]
 .fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg" width="650px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/2048px-Open_Source_Initiative_keyhole.svg.png" width="650px"/>
 ]
 ]
 
@@ -439,6 +443,32 @@ count: false
 
 ---
 
+# Discussion: Why Open Science?
+
+<center>
+<img src="img/why.svg" width="500px"/>
+</center>
+
+---
+
+# Discussion: Unrestricted access?
+
+.cols[
+.fifty[
+- **Open** ≠ **unrestriced**
+- Clear definition of reuse options via **public copyright licenses**
+- Creative Commons Licenses
+    + Most prominent license family
+    + Used all over the internet
+    + E.g. **attribution** → appropriate credit
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Cc.logo.circle.svg" width="350px"/>
+]
+]
+
+---
+
 class: part-slide
 
 # Many thanks for your attention!
@@ -448,69 +478,4 @@ class: part-slide
 </center>
 
 ---
-
-# Why Open Science?
-
-<center>
-<img src="img/why.svg" width="500px"/>
-</center>
-
----
-
-# Why not Open Science?
-
-1. “Copyright”
-2. “Marketability”
-3. “Effort”
-
----
-
-# Why not Open Science?
-
-1. **“Copyright”**
-2. “Marketability”
-3. “Effort”
-
-.cols[
-.fifty[
-<img src="img/johnny_automatic_fastening_the_wheels.svg" width="650px"/>
-]
-.fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Backstube_B%C3%A4ckerei_Kronenberg_Dezember_1941.jpg/800px-Backstube_B%C3%A4ckerei_Kronenberg_Dezember_1941.jpg" width="650px"/>
-]
-]
-
----
-
-# Why not Open Science?
-
-1. “Copyright”
-2. **“Marketability”**
-3. “Effort”
-
-.cols[
-.fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Simple_supply_and_demand.svg/629px-Simple_supply_and_demand.svg.png" width="650px"/>
-]
-.fifty[
-<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X35Y18D156876641FS4376/views/1,width=650,height=650,appearanceId=2,backgroundColor=fff/zeige-allen-dass-du-dich-fuer-freiheit-demokratie-einsetzst-egal-ob-als-demokrat-oder-bei-der-fdp-junge-liberale-mehr-liberales-inoffizielles-me.jpg" width="350px"/>
-]
-]
-
----
-
-# Why not Open Science?
-
-1. “Copyright”
-2. “Marketability”
-3. **“Effort”**
-
-.cols[
-.fifty[
-<img src="img/kunst.png" width="650px"/>
-]
-.fifty[
-<img src="https://osl.hypotheses.org/files/2020/07/Openscience.svg" width="250px"/>
-]
-]
 
