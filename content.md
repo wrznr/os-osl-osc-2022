@@ -455,7 +455,7 @@ count: false
 
 .cols[
 .fifty[
-- **Open** ≠ **unrestriced**
+- **Open** ≠ **unrestricted**
 - Clear definition of reuse options via **public copyright licenses**
 - Creative Commons Licenses
     + Most prominent license family
