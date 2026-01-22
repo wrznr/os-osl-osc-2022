@@ -630,10 +630,10 @@ Don't just pay for Open Access.<br>
 
 # Local Support: Science Communication
 
-**Scope:** Professional production & Mobile equipment
+**Scope:** Professional production
 
 .cols[
-.fifty[
+.sixty[
 **SLUB Studios** (Zentralbibliothek)
 * **Podcast Studio**
    + 4 Mics (Røde), Headsets, *Podtrak*
@@ -643,6 +643,25 @@ Don't just pay for Open Access.<br>
    + Prof. Lighting, 4K Camera, Teleprompter
    + Software: *OBS Studio*, *Cinector*
    + Ideal for: Explainer videos, Course teasers
+]
+.fourty[
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/9/6/csm_Podcaststudio_02_e28080f58d.jpg" height="150px" style="border-radius:5px"/>
+</center>
+]
+]
+
+---
+
+# Local Support: Science Communication
+
+**Scope:** Mobile equipment
+
+.cols[
+.fifty[
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/b/0/csm_140A1044_bdbf5dac48.jpg" height="150px" style="border-radius:5px"/>
+</center>
 ]
 .fifty[
 **Library of Things** (Ausleihe)
@@ -655,15 +674,6 @@ Don't just pay for Open Access.<br>
 ]
 ]
 
-<br>
-<center>
-<div style="display:flex; justify-content:center; gap:20px;">
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/9/6/csm_Podcaststudio_02_e28080f58d.jpg" height="150px" style="border-radius:5px"/>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/d/9/csm_Greenscreen_01_7e7434771e.jpg" height="150px" style="border-radius:5px"/>
-</div>
-<small><i>Podcast & Greenscreen Studio @ SLUB</i></small>
-</center>
-
 ---
 
 # The SLUB Open Science Lab
@@ -675,6 +685,34 @@ Don't just pay for Open Access.<br>
 <center>
 <img src="https://www.slub-dresden.de/fileadmin/_processed_/5/f/csm_OSL_Aussenansicht_d712fd4562.jpg" width="300px"/>
 </center>
+
+---
+
+# Principles of Open Science at TUD
+
+**Status:** Official commitment to transparency, reproducibility, and participation.
+
+.cols[
+.sixty[
+**Core Principles**
+* **Standardization:** Integration of Open Science into the daily research workflow.
+* **Open Access:** Priority for free, permanent digital access to publications.
+* **FAIR Data:** Research data should be Findable, Accessible, Interoperable, and Reusable.
+* **Methodological Transparency:** Promotion of Preregistration and Open Code.
+* **Evaluation:** Recognition of "Openness" in career development and hiring.
+]
+.fourty[
+<center>
+<img src="https://tu-dresden.de/logo_tud_blau.png" width="200px"/>
+<br><br>
+<div style="background-color: #f5f5f5; border-left: 5px solid #002557; padding: 15px; font-size: 0.9rem; text-align: left;">
+<i>"Open Science is a prerequisite for excellent research and is part of the digital transformation of TU Dresden."</i>
+</div>
+<br>
+<small><a href="https://tu-dresden.de/forschung-transfer/ressourcen/dateien/open-science/open-science-positionspapier/">Read the Full Position Paper</a></small>
+</center>
+]
+]
 
 ---
 
