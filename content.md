@@ -6,11 +6,11 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>2023-11-15</td>
+      <td>2026-01-22</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
-      <td style="text-align:right">Open Science Dept.</td>
+      <td style="text-align:right">Research-related services</td>
       <td />
     </tr>
   </table>
@@ -22,10 +22,10 @@ layout: true
       <td style="text-align:left"><b>Kay-Michael Würzner</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Open Science Dept.</td>
+      <td style="text-align:left">Research-related services</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>2023-11-15</b></td>
+      <td style="font-size:8pt"><b>2026-01-22</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Dresden School of Clinical Science: Key competencies</td>
@@ -291,6 +291,42 @@ count: false
 ]
 ]
 
+---
+
+class: part-slide
+count: false
+
+# Two Paths to Open Clinical Science
+
+
+---
+
+# Openness is a Spectrum
+
+<center>
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<h3>"Open" ≠ "Public"</h3>
+<p>Especially in clinical research, openness defines <b>process transparency</b>, not necessarily immediate public data availability.</p>
+</div>
+</center>
+
+<br>
+
+.cols[
+.fifty[
+### Path 1: "Sensitive"
+*For clinical trials, patient data, susceptible populations.*
+<br>
+**"As open as possible,<br>as closed as necessary."**
+]
+.fifty[
+### Path 2: "Progressive"
+*For meta-analyses, anon. data, basic research.*
+<br>
+<br>
+**"Born Open."**
+]
+]
 
 ---
 
