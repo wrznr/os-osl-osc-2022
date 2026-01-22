@@ -333,7 +333,7 @@ count: false
 
 # Path 1: The “Sensitive” Approach
 
-We cannot share data publicly (GDPR), but we can share the **evidence generation process**.
+No data publication (GDPR), but share the **evidence generation process**.
 
 .cols[
 .fifty[
@@ -451,14 +451,14 @@ The **National Research Data Infrastructure for Personal Health Data**.
 .sixty[
 **Goal:** Enable scientific use of personal health data while respecting privacy
 
-**Services**
-* **German Central Health Study Hub**
-    * *The* search portal for clinical & epi studies in Germany
-    * Find metadata, protocols, and data access routes
-* **Metadata Schema**
-    * Standardized way to describe health studies (FAIR)
-* **Legal Helpdesk**
-    * Guidance on GDPR and broad consent
+* **Services**
+    * **German Central Health Study Hub**
+        * *The* search portal for clinical & epi studies in Germany
+        * Find metadata, protocols, and data access routes
+    * **Metadata Schema**
+        * Standardized way to describe health studies (FAIR)
+    * **Legal Helpdesk**
+        * Guidance on GDPR and broad consent
 ]
 .fourty[
 <center>
