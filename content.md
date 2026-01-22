@@ -181,6 +181,29 @@ count: false
 
 ---
 
+# Spotlight: Registered Reports
+
+A shift in the publication incentive structure relevant to medicine:
+
+.cols[
+.sixty[
+* **Stage 1 Peer Review:** Review of Intro + Methods.
+    * Result: *In-Principle Acceptance (IPA)*.
+* **Research Phase:** Conduct study.
+* **Stage 2 Peer Review:** Review of Results + Discussion.
+    * Check: Did they follow the plan?
+* **Result:** Publication (regardless of null results).
+* *Medical Journals:* *BMC Medicine*, *PLOS Biology*, *Nature Human Behaviour*.
+]
+.fourty[
+<center>
+<img src="https://cdn.cos.io/media/images/registered_reports_steps.original.png" width="300px"/>
+</center>
+]
+]
+
+---
+
 # Open Data
 
 .cols[
@@ -378,7 +401,31 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 class: part-slide
 count: false
 
-# The SLUB Open Science Lab
+# Support Structures
+
+---
+
+# National Support: NFDI4Health
+
+The **National Research Data Infrastructure for Personal Health Data**.
+
+.cols[
+.sixty[
+* **Goal:** Enable scientific use of personal health data while respecting privacy.
+* **Services:**
+    * **German Central Health Study Hub:** Find clinical trials and epi studies.
+    * **MICSS:** Metadata catalog for clinical studies.
+    * **Guidelines:** How to make health data FAIR.
+* **Why it matters:** They solve the "GDPR vs. Open Science" conflict for you.
+]
+.fourty[
+<center>
+<img src="https://www.nfdi4health.de/images/logo/nfdi4health_logo.svg" width="300px"/>
+<br><br>
+<a href="https://www.nfdi4health.de/">www.nfdi4health.de</a>
+</center>
+]
+]
 
 ---
 
@@ -484,7 +531,6 @@ count: false
 
 # Work, event and meeting place
 
-- Grand opening in November 2022
 - Interim at Zellescher Weg 21 (*zell21*)
 
 .cols[
