@@ -452,6 +452,31 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 
 ---
 
+---
+
+# Science Communication: Opening up to Society
+
+.cols[
+.fifty[
+**Why bother?**
+* **Visibility:** "The Sagan Effect" ([Public engagement ↑ Citations](https://doi.org/10.1177/1077699014550092))
+* **Trust:** Combat misinformation directly
+* **Funding:** Often a mandatory grant deliverable
+
+**The Channels**
+* **Digital:** Blogs, Podcasts, LinkedIn/BlueSky
+* **Physical:** Science Slams, Open Lab Days
+]
+.fifty[
+<center>
+<img src="img/lndw.png" width="250px"/>
+<img src="img/podcast.png" width="400px"/>
+</center>
+]
+]
+
+---
+
 class: part-slide
 count: false
 
@@ -533,7 +558,7 @@ The **National Research Data Infrastructure for Personal Health Data**.
 .fourty[
 <center>
 <img src="https://tu-dresden.de/med/mf/ressourcen/bilder/forschung/Zweitlogo-Treuhandstelle-Ber-Med.jpg/@@images/c61fc5d0-b589-469e-9ded-1e3f1494fd1d.jpeg" width="300px"/>
-<img src="https://de.wikipedia.org/wiki/Medizinische_Akademie_%E2%80%9ECarl_Gustav_Carus%E2%80%9C#/media/Datei:Logo_Medizinische_Akademie_Dresden.svg" width="300px"/>
+<img src="https://upload.wikimedia.org/wikipedia/de/b/b9/Logo_Medizinische_Akademie_Dresden.svg" width="300px"/>
 
 </center>
 ]
@@ -541,7 +566,7 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 ---
 
-# Publishing
+# SLUB Publication Services
 
 **Scope:** Financing, Licensing, Strategy
 
