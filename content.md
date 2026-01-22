@@ -356,17 +356,51 @@ We cannot share data publicly (GDPR), but we can share the **evidence generation
 
 .cols[
 .fifty[
-1. **Open Protocol:** * Registered on *ClinicalTrials.gov* or *DRKS*.
-   * Detailed plan *before* recruitment.
-2. **Open Code:** * Analysis scripts (R/Python) on *GitHub*.
-   * Allows check of statistical logic without seeing data.
-3. **Controlled Data:** * Metadata is public (Findable).
-   * Dataset in a repository (e.g., *Vivli*, *YODA*) with a **Data Access Committee (DAC)**.
+1. **Open Protocol:** * Registered on *ClinicalTrials.gov* or *DRKS*
+   * Detailed plan *before* recruitment
+2. **Open Code:** * Analysis scripts (R/Python) on *GitHub*
+   * Allows check of statistical logic without seeing data
+3. **Controlled Data:** * Public metadata (Findable)
+   * Dataset in a repository (e.g., *Vivli*, *YODA*) with a **Data Access Committee**
 ]
 .fifty[
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/500px-Open_Access_logo_PLoS_white_green.svg.png" width="200px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/500px-Open_Access_logo_PLoS_white_green.svg.png" width="50px"/>
 <p><b>FAIR Data</b><br>Findable: ✅<br>Accessible: 🔐 (Request)<br>Interoperable: ✅<br>Reusable: ✅ (with permission)</p>
+</center>
+]
+]
+
+---
+
+# Example 1
+
+**Context:** SPRINT trial (2015), blood pressure guidelines
+<br>**Openness:** **Controlled access** via secure environment
+
+.cols[
+.fifty[
+**The Study**
+* *Johnson et al. (2018)*
+* Secondary analysis of original data
+* Access via secure repository
+
+**The Outcome**
+* Confirmation of primary benefits
+* Identification of subgroup risks
+* **Value:** Validation without privacy compromise
+]
+.fifty[
+<center>
+<img src="https://nejm.org/img/nejm_logo.png" width="200px"/>
+<br>
+<small><i>Johnson et al., NEJM 2018</i></small>
+<br><br>
+<div style="background-color: #e8f5e9; padding: 10px; border-radius: 5px; font-size: 0.8rem;">
+<b>Infrastructure used:</b><br>
+Secure Research Environment<br>
++ Public Metadata
+</div>
 </center>
 ]
 ]
@@ -380,13 +414,13 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 .cols[
 .fifty[
 1. **Preregistration:**
-   * **Open Science Framework (OSF)**.
-   * "Frozen" timestamped plan prevents *p-hacking* and *HARKing*.
+   * **Open Science Framework (OSF)**
+   * "Frozen" timestamped plan prevents *p-hacking* and *HARKing*
 2. **Born-Open Workflow:**
-   * Lab notebook / Data collection openly documented.
+   * Lab notebook / Data collection openly documented
 3. **Registered Report:**
-   * Peer review **before** results are known.
-   * Acceptance based on method, not significance of results.
+   * Peer review **before** results
+   * Acceptance based on method quality
 ]
 .fifty[
 <center>
