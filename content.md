@@ -487,9 +487,7 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 ---
 
----
-
-# Kontaktstelle Forschungsdaten (Service Center Research Data)
+# Service Center Research Data (Kontaktstelle Forschungsdaten)
 
 **Scope:** All disciplines / General RDM questions
 
@@ -509,6 +507,33 @@ The **National Research Data Infrastructure for Personal Health Data**.
 <center>
 <img src="https://tu-dresden.de/forschung-transfer/ressourcen/bilder/kontaktstelle-forschungsdaten/logos/CIDS_W_ZIH_Logo_Abk_bearbeiteit.png/@@images/f22cd402-829e-4da4-b03d-c1be1ea8f51d.png" width="300px"/>
 <img src="https://www.slub-dresden.de/fileadmin/groups/slubsite/Ueber_uns/Presse/Downloadbereich_Logo/Logo-SLUB_Farbe.jpg" width="300px"/>
+
+</center>
+]
+]
+
+---
+
+# Independent Trustee Office (Unabhängige Treuhandstelle)
+
+**Scope:** Clinical trials / Patient data / GDPR compliance
+
+.cols[
+.sixty[
+**Core Functions**
+* **Identity Management**
+   + Separation of identifying data (ID) from medical data (MD)
+   + Generation of pseudonyms (PSN)
+* **Consent Management**
+   + Storage of Informed Consent forms
+   + Handling of consent withdrawal
+* **Data Transfer**
+   + Secure linkage for researchers (without ID access)
+]
+.fourty[
+<center>
+<img src="https://tu-dresden.de/med/mf/ressourcen/bilder/forschung/Zweitlogo-Treuhandstelle-Ber-Med.jpg/@@images/c61fc5d0-b589-469e-9ded-1e3f1494fd1d.jpeg" width="300px"/>
+<img src="https://de.wikipedia.org/wiki/Medizinische_Akademie_%E2%80%9ECarl_Gustav_Carus%E2%80%9C#/media/Datei:Logo_Medizinische_Akademie_Dresden.svg" width="300px"/>
 
 </center>
 ]
