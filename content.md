@@ -645,8 +645,9 @@ Don't just pay for Open Access.<br>
    + Ideal for: Explainer videos, Course teasers
 ]
 .fourty[
+<br/>
 <center>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/9/6/csm_Podcaststudio_02_e28080f58d.jpg" height="150px" style="border-radius:5px"/>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/4/f/csm_FINAL-N6Z_7036-1-web_0705e2403b.jpg" height="200px" style="border-radius:5px"/>
 </center>
 ]
 ]
@@ -659,8 +660,10 @@ Don't just pay for Open Access.<br>
 
 .cols[
 .fifty[
+<br/>
+<br/>
 <center>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/b/0/csm_140A1044_bdbf5dac48.jpg" height="150px" style="border-radius:5px"/>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/b/0/csm_140A1044_bdbf5dac48.jpg" height="200px" style="border-radius:5px"/>
 </center>
 ]
 .fifty[
@@ -693,23 +696,16 @@ Don't just pay for Open Access.<br>
 **Status:** Official commitment to transparency, reproducibility, and participation.
 
 .cols[
-.sixty[
-**Core Principles**
+.fifty[
 * **Standardization:** Integration of Open Science into the daily research workflow.
 * **Open Access:** Priority for free, permanent digital access to publications.
 * **FAIR Data:** Research data should be Findable, Accessible, Interoperable, and Reusable.
+]
+.fifty[
 * **Methodological Transparency:** Promotion of Preregistration and Open Code.
 * **Evaluation:** Recognition of "Openness" in career development and hiring.
-]
-.fourty[
 <center>
-<img src="https://tu-dresden.de/logo_tud_blau.png" width="200px"/>
-<br><br>
-<div style="background-color: #f5f5f5; border-left: 5px solid #002557; padding: 15px; font-size: 0.9rem; text-align: left;">
-<i>"Open Science is a prerequisite for excellent research and is part of the digital transformation of TU Dresden."</i>
-</div>
-<br>
-<small><a href="https://tu-dresden.de/forschung-transfer/ressourcen/dateien/open-science/open-science-positionspapier/">Read the Full Position Paper</a></small>
+<img src="https://tu-dresden.de/forschung-transfer/ressourcen/bilder/Open-Science_ohne-Flaechen.jpg/@@images/73bcc831-96cb-4bee-ae0b-215d33111fb7.jpeg" width="300px"/>
 </center>
 ]
 ]
