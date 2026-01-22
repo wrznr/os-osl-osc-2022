@@ -329,7 +329,7 @@ count: false
 ]
 ]
 
---ini
+---
 
 # Path 1: The “Sensitive” Approach
 
@@ -415,7 +415,7 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 * [*Camerer et al. (2018)*](https://doi.org/10.1038/s41562-018-0399-z)
   * **"The Social Sciences Replication Project"**
   * Replicated 21 high-profile studies from *Nature* and *Science*
-  * Used **Registered Reports** to guarantee unbiased results
+  * Used **Preregistration** to guarantee unbiased results
   * Found that only **62%** of findings could be replicated
 ]
 .fifty[
