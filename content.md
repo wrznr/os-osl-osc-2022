@@ -372,7 +372,7 @@ No data publication (GDPR), but share the **evidence generation process**.
 ]
 .fifty[
 <center>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzgW4xr0ugf64AmJub1d2do5zkpFGQ7XQ9w&s" width="200px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzgW4xr0ugf64AmJub1d2do5zkpFGQ7XQ9w&s" width="400px"/>
 </center>
 * [*Basu et al. (2021)*](https://doi.org/10.1371/journal.pmed.1003785)
   * Transparent correction of a caption error
@@ -414,22 +414,15 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 * [*Camerer et al. (2018)*](https://doi.org/10.1038/s41562-018-0399-z)
   * **"The Social Sciences Replication Project"**
   * Replicated 21 high-profile studies from *Nature* and *Science*
-  * Used **Preregistration** to guarantee unbiased results
   * Found that only **62%** of findings could be replicated
+  * Used **Preregistration** to guarantee unbiased results
 ]
 .fifty[
 <center>
-<img src="https://media.springernature.com/full/springer-cms/rest/v1/img/10660688/v2/400" width="200px"/>
-<br>
-<small><i>Camerer et al., Nat Hum Behav 2018</i></small>
-<br><br>
-<div style="background-color: #fff3e0; padding: 10px; border-radius: 5px; font-size: 0.8rem;">
-<b>Infrastructure used:</b><br>
-Preregistration<br>
-(Open Science Framework)<br>
-+ Two-Stage Peer Review
-</div>
+<img src="https://palmerlab.org/wp-content/uploads/2023/12/Nature-Human-Behaviour-logo-c.png" width="400px"/>
 </center>
+* Paper itself not Open Access
+* [OSF presence](https://osf.io/pfdyw/overview) is!
 ]
 ]
 
