@@ -452,8 +452,6 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 
 ---
 
----
-
 # Science Communication: Opening up to Society
 
 .cols[
@@ -471,7 +469,7 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 * **Digital:** Blogs, Podcasts, LinkedIn/BlueSky
 * **Physical:** Science Slams, Open Lab Days
 <center>
-<img src="img/podcast.png" width="400px"/>
+<a href="https://tu-dresden.de/med/mf/imb/studium/medienpool/datensprechstunde?set_language=de"><img src="img/podcast.png" width="400px"/></a>
 </center>
 ]
 ]
@@ -597,6 +595,39 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 ---
 
+# SLUB Publia – Diamond Open Access, made in Dresden
+
+**Scope:** Hosting for **your own** Journals, Conference Proceedings, and Schriftenreihen.
+
+.cols[
+.fifty[
+* **Diamond Open Access:**
+   Free for authors, free for readers. No APCs.
+* **Infrastructure:**
+   Professional hosting via *OJS* (Journals) or *OMP* (Books).
+* **Services:**
+   + DOI assignment & ISSN/ISBN
+   + Long-term archiving
+   + Custom corporate design
+]
+.fifty[
+<center>
+<br><br>
+<div style="background-color: #f3e5f5; padding: 15px; border-radius: 5px;">
+<b>Why choose this?</b><br>
+Don't just pay for Open Access.<br>
+<b>Create it.</b><br>
+<br>
+<i>Ideal for conference proceedings and institute series.</i>
+</div>
+<br>
+<small><a href="https://www.slub-dresden.de/veroeffentlichen/publia-slub-open-publishing">slub-dresden.de/publia</a></small>
+</center>
+]
+]
+
+---
+
 # The SLUB Open Science Lab
 
 1. Bundling of advisory and educational **services** to support an open research cycle
@@ -604,137 +635,8 @@ The **National Research Data Infrastructure for Personal Health Data**.
 3. Centrally situated, university-wide **icon** for the importance of open science
 
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TU_Dresden_44.jpg/800px-TU_Dresden_44.jpg" width="300px"/>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/5/f/csm_OSL_Aussenansicht_d712fd4562.jpg" width="300px"/>
 </center>
-
----
-
-# Advisory and educational services
-
-.cols[
-.sixty[
-- Support of an open scientific culture central part of
-  [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
-    ]
-.fourty[
-<center>
-<img src="img/os_comp.png" width="300px"/>
-</center>
-]
-]
-- Services around an open research cycle
-    * **Open Access**: Financing and licensing issues; publication infrastructure
-    * **Open Data**: (Meta-)Data formats; repositories; technical workflows
-    * **Open Methodology**: Pregistration and registered reports; Open Science Framework
-    * **Open Evaluation**: Bibliometric analyses for optimized outreach and objective impact estimation
-
----
-
-# Advisory and educational services
-
-- Services in an openness ecosystem
-    * **Open Educational Resources**: Methodology and tools; licensing issues
-    * **Citizen Science**: Connecting professional and non-professional scientific contexts
-    * **Open Science practices**: Advisory programme for Horizon Europe applications
-    * **Science communication**: Scientific blogging; predatory journals; academic identity management
-
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="300px"/>
-</center>
-
----
-
-# Advisory and educational services
-
-- **Talks**, e.g. at
-    * International Open Access Week
-    * Graduate Academy
-    * Lessons in Open Science
-- **Individual advice**, e.g. at
-    * SLUB Knowledge Bar
-    * Subject librarians
-    * SLUB Helpdesk
-- **Self-study materials** on
-    * [YouTube](https://www.youtube.com/user/slubdresden)
-    * [Opal](https://bildungsportal.sachsen.de/opal/auth/repository/catalog/548470806;jsessionid=1E37A405717942198827CEFF6E38A0D8.opalN5)
-
----
-
-# Advisory and educational services
-
-- In cooperation with academic partners at TUD (and beyond)
-    * [Service Center Research Data](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten)
-    * [Centre for Interdisciplinary Learning and Teaching (ZiLL)](https://tu-dresden.de/tu-dresden/organisation/rektorat/prorektor-bildung/zill)
-    * [European Project Center](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/european-project-center)
-    * [Open Science Initiative](https://tu-dresden.de/mn/psychologie/die-fakultaet/open-science)
-    * [SaxFDM](https://saxfdm.de/)
-    * ...
-
-<center>
-<img src="img/collaboration.jpg" width="350px"/>
-</center>
-
----
-
-# Work, event and meeting place
-
-
-.cols[
-.fifty[
-- Planned since 2018
-- Strategy paper “SLUB 2025”
-- Modernization of the service portfolio pf scientific libraries
-    + SLUB Makerspace
-    + SLUB TextLab
-    + Musicspace/A-V Lab
-    + ...
-- Prototype: [OSL at TIB Hannover](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science)
-]
-.fifty[
-<img src="img/slub-2025.png" width="350px"/>
-]
-]
-
----
-
-# Work, event and meeting place
-
-- Interim at Zellescher Weg 21 (*zell21*)
-
-.cols[
-.fifty[
-<center>
-<img src="http://photos.wikimapia.org/p/00/00/51/72/45_big.jpg" width="350px"/>
-</center>
-]
-.fifty[
-<center>
-<img src="https://blog.slub-dresden.de/fileadmin/_processed_/5/5/csm_Titelbild_2022-10-13_Interim-OSL_OEA7400_c1aedc443d.jpg" width="350px"/>
-</center>
-]
-]
-
----
-
-# Work, event and meeting place
-
-.cols[
-.fifty[
-- Mixture of bookable and freely usable workplaces
-- Three larger event rooms
-    + OSL 1: up to 70 p.
-    + OSL 2 & 3: up to 30 p.
-    + Each with flexible furniture
-- Open Science Desk
-- Technical equipment for hybrid events
-    + Projectors, digital whiteboards
-    + Mobile cameras, microphones, speakers etc.
-- **Kitchen**
-]
-.fifty[
-<img src="https://blog.slub-dresden.de/fileadmin/_processed_/3/7/csm_2022-11-29_OpenScienceLab_OEA7782_d79b94eef2.jpg" width="350px"/>
-]
-]
 
 ---
 
@@ -746,24 +648,6 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 ---
 
-# Discussion: Unrestricted access?
-
-.cols[
-.fifty[
-- **Open** ≠ **unrestricted**
-- Clear definition of reuse options via **public copyright licenses**
-- Creative Commons Licenses
-    + Most prominent license family
-    + Used all over the internet
-    + E.g. **attribution** → appropriate credit
-]
-.fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Cc.logo.circle.svg" width="350px"/>
-]
-]
-
----
-
 class: part-slide
 
 # Many thanks for your attention!
@@ -771,6 +655,3 @@ class: part-slide
 <center>
 <a href="https://wrznr.github.io/os-osl-osc-2022/">wrznr.github.io/os-osl-osc-2022</a>
 </center>
-
----
-
