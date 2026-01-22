@@ -333,7 +333,7 @@ count: false
 
 # Path 1: The “Sensitive” Approach
 
-No data publication (GDPR), but share the **evidence generation process**.
+No data publication (GDPR), but share the **research process**.
 
 .cols[
 .fifty[
