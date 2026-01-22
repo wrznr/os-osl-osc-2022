@@ -541,6 +541,36 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 ---
 
+# Publishing
+
+**Scope:** Financing, Licensing, Strategy
+
+.cols[
+.fifty[
+**Advisory Services**
+* **Publication Strategy**
+   + Journal selection (Visibility vs. Impact)
+   + Identification of *Predatory Journals*
+* **Legal & Technical**
+   + Copyright & Licenses (CC-BY advice)
+   + Author Identification (*ORCID*)
+   + TUD Affiliation Guidelines
+]
+.fifty[
+**Financial Support**
+* **Publication Fund**
+   + Funding for *Gold Open Access* articles
+   + For pure OA journals 
+* **Transformation Agreements (DEAL)**
+   + "Read & Publish" options
+   + Central billing for *Wiley*, *Springer Nature*, *Elsevier*
+* **Membership Discounts**
+   + Reduced fees (e.g., *Frontiers*, *MDPI*)
+]
+]
+
+---
+
 # The SLUB Open Science Lab
 
 1. Bundling of advisory and educational **services** to support an open research cycle
