@@ -356,39 +356,31 @@ We cannot share data publicly (GDPR), but we can share the **evidence generation
 
 # Example 1
 
-**Context:** SPRINT trial (2015), blood pressure guidelines
+**Context:** [SPRINT trial (2015)](https://doi.org/10.1056/nejmoa1511939), blood pressure trials
 <br>**Openness:** **Controlled access** via secure environment
 
 .cols[
 .fifty[
-**The Study**
-* *Johnson et al. (2018)*
-* Secondary analysis of original data
-* Access via secure repository
-
-**The Outcome**
-* Confirmation of primary benefits
-* Identification of subgroup risks
-* **Value:** Validation without privacy compromise
+* [*Basu et al. (2017)*](https://doi.org/10.1371/journal.pmed.1002410)
+  * Finalist of the [*NEJM* SPRINT Challenge](https://doi.org/10.1056/nejmp1705323)
+  * **Secondary analysis** of shared data
+  * Developed a "Benefit/Harm" risk score
+  * Identified subgroups where aggressive treatment was harmful
+  * **Value:** Nuanced clinical care via data reuse
 ]
 .fifty[
 <center>
-<img src="https://nejm.org/img/nejm_logo.png" width="200px"/>
-<br>
-<small><i>Johnson et al., NEJM 2018</i></small>
-<br><br>
-<div style="background-color: #e8f5e9; padding: 10px; border-radius: 5px; font-size: 0.8rem;">
-<b>Infrastructure used:</b><br>
-Secure Research Environment<br>
-+ Public Metadata
-</div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzgW4xr0ugf64AmJub1d2do5zkpFGQ7XQ9w&s" width="200px"/>
 </center>
+* [*Basu et al. (2021)*](https://doi.org/10.1371/journal.pmed.1003785)
+  * Transparent correction of a caption error
+  * “Micro” publication
 ]
 ]
 
 ---
 
-# Path 2: The "Progressive" Approach
+# Path 2: The “Progressive” Approach
 
 Ideal for studies where data sensitivity is low or fully anonymized.
 
