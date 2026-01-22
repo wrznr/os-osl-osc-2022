@@ -305,12 +305,10 @@ count: false
 
 <center>
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-<h3>"Open" ≠ "Public"</h3>
+<h4>"Open" ≠ "Public"</h4>
 <p>Especially in clinical research, openness defines <b>process transparency</b>, not necessarily immediate public data availability.</p>
 </div>
 </center>
-
-<br>
 
 .cols[
 .fifty[
@@ -323,8 +321,31 @@ count: false
 ### Path 2: "Progressive"
 *For meta-analyses, anon. data, basic research.*
 <br>
-<br>
 **"Born Open."**
+]
+]
+
+---
+
+# Path 1: The "Sensitive" Approach
+## Example: A Clinical Trial
+
+We cannot share data publicly (GDPR), but we can share the **evidence generation process**.
+
+.cols[
+.fifty[
+1. **Open Protocol:** * Registered on *ClinicalTrials.gov* or *DRKS*.
+   * Detailed plan *before* recruitment.
+2. **Open Code:** * Analysis scripts (R/Python) on *GitHub*.
+   * Allows check of statistical logic without seeing data.
+3. **Controlled Data:** * Metadata is public (Findable).
+   * Dataset in a repository (e.g., *Vivli*, *YODA*) with a **Data Access Committee (DAC)**.
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lock-green.svg/1024px-Lock-green.svg.png" width="200px"/>
+<p><b>FAIR Data</b><br>Findable: ✅<br>Accessible: 🔐 (Request)<br>Interoperable: ✅<br>Reusable: ✅ (with permission)</p>
+</center>
 ]
 ]
 
