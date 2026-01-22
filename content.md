@@ -183,8 +183,6 @@ count: false
 
 # Spotlight: Registered Reports
 
-A shift in the publication incentive structure relevant to medicine:
-
 .cols[
 .sixty[
 * **Stage 1 Peer Review:** Review of Intro + Methods.
@@ -267,10 +265,13 @@ A shift in the publication incentive structure relevant to medicine:
         * Open identities of authors **and** reviewers
         * Published reviews
         * Wider contribution possibilities for the scientific community
-- Alternatives for measuring scientific outreach
-    + Moving beyond *Journal Impact Factor* **and** *Web of Science*
+    + Alternatives for measuring scientific outreach
+        * Moving beyond journal-based quality assessment (i.e. *Journal Impact Factor*)
 <center>
 <img src="img/eval.png" width="400px"/>
+</center>
+<center>
+<img src="https://tu-dresden.de/tu-dresden/newsportal/ressourcen/bilder/news-bilder/fotos-2025/Dorabadge1.png/@@images/ee5d21ad-d99a-4250-9a62-2688ce7f5977.png" width="100px"/>
 </center>
 
 ---
