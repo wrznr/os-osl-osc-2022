@@ -309,27 +309,27 @@ count: false
 
 <center>
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-<h4>"Open" ≠ "Public"</h4>
-<p>Especially in clinical research, openness defines <b>process transparency</b>, not necessarily immediate public data availability.</p>
+<h3>"Open" ≠ "Public"</h3>
+<p>Openness defines <b>process transparency</b>, not necessarily immediate public data availability.</p>
 </div>
 </center>
 
 .cols[
 .fifty[
 ### Path 1: “Sensitive”
-*For clinical trials, patient data, susceptible populations.*
+*For clinical trials, patient data ...*
 <br>
 **"As open as possible,<br>as closed as necessary."**
 ]
 .fifty[
 ### Path 2: “Progressive”
-*For meta-analyses, anon. data, basic research.*
+*For meta-analyses, anon. data, simulations*
 <br>
 **"Born Open."**
 ]
 ]
 
----
+--ini
 
 # Path 1: The “Sensitive” Approach
 
@@ -337,12 +337,15 @@ We cannot share data publicly (GDPR), but we can share the **evidence generation
 
 .cols[
 .fifty[
-1. **Open Protocol:** * Registered on *ClinicalTrials.gov* or *DRKS*
-   * Detailed plan *before* recruitment
-2. **Open Code:** * Analysis scripts (R/Python) on *GitHub*
+1. **Open Protocol:**
+   * Registered on [*ClinicalTrials.gov*](https://clinicaltrials.gov/) or [*DRKS*](https://www.bfarm.de/DE/Das-BfArM/Aufgaben/Deutsches-Register-Klinischer-Studien/Studienerfassung/_node.html)
+   * Detailed plan *before* execution
+2. **Open Code:**
+   * Analysis scripts (R/Python) on *GitHub*
    * Allows check of statistical logic without seeing data
-3. **Controlled Data:** * Public metadata (Findable)
-   * Dataset in a repository (e.g., *Vivli*, *YODA*) with a **Data Access Committee**
+3. **Controlled Data:**
+   * Public metadata (Findable)
+   * Dataset in a repository (e.g., [*Vivli*](https://vivli.org/), [*YODA*](https://www.uu.nl/en/research/yoda)) with a **Data Access Committee**
 ]
 .fifty[
 <center>
@@ -399,6 +402,34 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 <center>
 <img src="https://osf.io/static/img/circle_logo.png" width="250px"/>
 <p><b>Full Transparency</b><br>Project Wiki<br>Files<br>Registration</p>
+</center>
+]
+]
+
+---
+
+# Example 2:
+
+.cols[
+.fifty[
+* [*Camerer et al. (2018)*](https://doi.org/10.1038/s41562-018-0399-z)
+  * **"The Social Sciences Replication Project"**
+  * Replicated 21 high-profile studies from *Nature* and *Science*
+  * Used **Registered Reports** to guarantee unbiased results
+  * Found that only **62%** of findings could be replicated
+]
+.fifty[
+<center>
+<img src="https://media.springernature.com/full/springer-cms/rest/v1/img/10660688/v2/400" width="200px"/>
+<br>
+<small><i>Camerer et al., Nat Hum Behav 2018</i></small>
+<br><br>
+<div style="background-color: #fff3e0; padding: 10px; border-radius: 5px; font-size: 0.8rem;">
+<b>Infrastructure used:</b><br>
+Preregistration<br>
+(Open Science Framework)<br>
++ Two-Stage Peer Review
+</div>
 </center>
 ]
 ]
