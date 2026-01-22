@@ -428,6 +428,30 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 
 ---
 
+# Example 3:
+
+.cols[
+.fifty[
+* [*Errington et al. (2021)*](https://doi.org/10.7554/eLife.71601)
+    * Massive effort to replicate 50 high-impact cancer studies
+    * **Open Access** (published in *eLife*)
+<center>
+<img src="https://elifesciences.org/assets/patterns/img/patterns/organisms/elife-logo-xs.fd623d00.svg" width="400px"/>
+</center>
+]
+.fifty[
+* The outcome
+    * **46%** successful replication rate
+    * Effects were often **85% smaller** than in original papers
+    * [Preregistered](https://osf.io/collections/rpcb/) with OSF
+<center>
+<img src="https://osf.io/static/img/circle_logo.png" width="250px"/>
+</center>
+]
+]
+
+---
+
 class: part-slide
 count: false
 
