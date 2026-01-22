@@ -117,7 +117,7 @@ count: false
 - Not a strict terminology
 - Not a complete picture
     + Open Innovation
-    + Open Leadership
+    + Open Cultural Heritage
     + ...
 - FAIR principles
     + Make it **findable**: *platform*
@@ -268,10 +268,10 @@ count: false
     + Alternatives for measuring scientific outreach
         * Moving beyond journal-based quality assessment (i.e. *Journal Impact Factor*)
 <center>
-<img src="img/eval.png" width="400px"/>
+<img src="img/eval.png" width="600px"/>
 </center>
 <center>
-<img src="https://tu-dresden.de/tu-dresden/newsportal/ressourcen/bilder/news-bilder/fotos-2025/Dorabadge1.png/@@images/ee5d21ad-d99a-4250-9a62-2688ce7f5977.png" width="100px"/>
+<img src="https://tu-dresden.de/tu-dresden/newsportal/ressourcen/bilder/news-bilder/fotos-2025/Dorabadge1.png/@@images/ee5d21ad-d99a-4250-9a62-2688ce7f5977.png" width="300px"/>
 </center>
 
 ---
@@ -297,26 +297,6 @@ count: false
 
 ---
 
-# Open Cultural Heritage
-
-.cols[
-.fifty[
-- Free access to **archival holdings, library collections and works of art** and their (un-)restricted reusability
-- Often granted through digitization
-- Multi-dimensional access
-    + Materiality!
-- Including descriptions of the creative process and provenance
-]
-.fifty[
-<center>
-<img src="https://miro.medium.com/max/1000/0*cRU6MAUaDr6fT0fS" width="300px"/>
-<p style="font-size:0.5rem;margin-top:0px">By Open Knowledge Foundation - http://openglam.org/files/2012/04/OpenGLAM-logo.png, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25209995</p>
-</center>
-]
-]
-
----
-
 class: part-slide
 count: false
 
@@ -336,13 +316,13 @@ count: false
 
 .cols[
 .fifty[
-### Path 1: "Sensitive"
+### Path 1: “Sensitive”
 *For clinical trials, patient data, susceptible populations.*
 <br>
 **"As open as possible,<br>as closed as necessary."**
 ]
 .fifty[
-### Path 2: "Progressive"
+### Path 2: “Progressive”
 *For meta-analyses, anon. data, basic research.*
 <br>
 **"Born Open."**
@@ -351,7 +331,7 @@ count: false
 
 ---
 
-# Path 1: The "Sensitive" Approach
+# Path 1: The “Sensitive” Approach
 
 We cannot share data publicly (GDPR), but we can share the **evidence generation process**.
 
@@ -446,18 +426,22 @@ The **National Research Data Infrastructure for Personal Health Data**.
 
 .cols[
 .sixty[
-* **Goal:** Enable scientific use of personal health data while respecting privacy.
-* **Services:**
-    * **German Central Health Study Hub:** Find clinical trials and epi studies.
-    * **MICSS:** Metadata catalog for clinical studies.
-    * **Guidelines:** How to make health data FAIR.
-* **Why it matters:** They solve the "GDPR vs. Open Science" conflict for you.
+**Goal:** Enable scientific use of personal health data while respecting privacy
+
+**Services**
+* **German Central Health Study Hub**
+    * *The* search portal for clinical & epi studies in Germany
+    * Find metadata, protocols, and data access routes
+* **Metadata Schema**
+    * Standardized way to describe health studies (FAIR)
+* **Legal Helpdesk**
+    * Guidance on GDPR and broad consent
 ]
 .fourty[
 <center>
-<img src="https://www.nfdi4health.de/images/logo/nfdi4health_logo.svg" width="300px"/>
+<img src="https://www.nfdi4health.de/images/logo/nfdi4health.svg" width="300px"/>
 <br><br>
-<a href="https://www.nfdi4health.de/">www.nfdi4health.de</a>
+<a href="https://health-study-hub.de/">www.health-study-hub.de</a>
 </center>
 ]
 ]
