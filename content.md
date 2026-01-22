@@ -193,11 +193,11 @@ A shift in the publication incentive structure relevant to medicine:
 * **Stage 2 Peer Review:** Review of Results + Discussion.
     * Check: Did they follow the plan?
 * **Result:** Publication (regardless of null results).
-* *Medical Journals:* *BMC Medicine*, *PLOS Biology*, *Nature Human Behaviour*.
+    * *Medical Journals:* [*BMC Medicine*](https://link.springer.com/journal/12916/submission-guidelines/registered-reports), [*PLOS Biology*](https://doi.org/10.1371/journal.pbio.3001611), [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-018-0399-z).
 ]
 .fourty[
 <center>
-<img src="https://cdn.cos.io/media/images/registered_reports_steps.original.png" width="300px"/>
+<img src="https://www.bise-journal.com/wp-content/uploads/2019/05/rr_process-968x1024.png" width="300px"/>
 </center>
 ]
 ]
