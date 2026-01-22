@@ -459,7 +459,7 @@ count: false
 
 ---
 
-# National Support: NFDI4Health
+# Excursus: NFDI4Health
 
 The **National Research Data Infrastructure for Personal Health Data**.
 
@@ -481,6 +481,35 @@ The **National Research Data Infrastructure for Personal Health Data**.
 <img src="https://www.nfdi4health.de/images/logo/nfdi4health.svg" width="300px"/>
 <br><br>
 <a href="https://health-study-hub.de/">www.health-study-hub.de</a>
+</center>
+]
+]
+
+---
+
+---
+
+# Kontaktstelle Forschungsdaten (Service Center Research Data)
+
+**Scope:** All disciplines / General RDM questions
+
+.cols[
+.sixty[
+**Services**
+* **DMP Support**
+   + Review of Data Management Plans
+   + Templates for grant applications (DFG, EU)
+* **Publication Advice**
+   + Repository selection (*Opara*, *Zenodo*)
+   + Licensing questions (CC-BY, etc.)
+* **Training**
+   + Workshops on RDM techniques
+]
+.fourty[
+<center>
+<img src="https://tu-dresden.de/forschung-transfer/ressourcen/bilder/kontaktstelle-forschungsdaten/logos/CIDS_W_ZIH_Logo_Abk_bearbeiteit.png/@@images/f22cd402-829e-4da4-b03d-c1be1ea8f51d.png" width="300px"/>
+<img src="https://www.slub-dresden.de/fileadmin/groups/slubsite/Ueber_uns/Presse/Downloadbereich_Logo/Logo-SLUB_Farbe.jpg" width="300px"/>
+
 </center>
 ]
 ]
