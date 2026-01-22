@@ -39,7 +39,6 @@ class: title-slide
 count: false
 
 # How to practice Open Science
-## An introduction with a quick glance at the SLUB Open Science Lab
 
 ---
 
