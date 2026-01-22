@@ -628,6 +628,44 @@ Don't just pay for Open Access.<br>
 
 ---
 
+# Local Support: Science Communication
+
+**Scope:** Professional production & Mobile equipment
+
+.cols[
+.fifty[
+**SLUB Studios** (Zentralbibliothek)
+* **Podcast Studio**
+   + 4 Mics (Røde), Headsets, *Podtrak*
+   + Software: *Audacity*, *Reaper* (Ultraschall), *Cubase*
+   + Ideal for: Interview podcasts, Audioguides
+* **Greenscreen Studio**
+   + Prof. Lighting, 4K Camera, Teleprompter
+   + Software: *OBS Studio*, *Cinector*
+   + Ideal for: Explainer videos, Course teasers
+]
+.fifty[
+**Library of Things** (Ausleihe)
+* **Mobile Equipment** (14 days loan)
+   + **Audio:** *Zoom* Recorders, Clip-on mics
+   + **Video:** *GoPro* cameras, 360° cameras
+   + **Interactive:** VR Glasses (*Oculus*), *OrCam*
+* **Post-Production**
+   + Powerful media workstations in the library
+]
+]
+
+<br>
+<center>
+<div style="display:flex; justify-content:center; gap:20px;">
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/9/6/csm_Podcaststudio_02_e28080f58d.jpg" height="150px" style="border-radius:5px"/>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/d/9/csm_Greenscreen_01_7e7434771e.jpg" height="150px" style="border-radius:5px"/>
+</div>
+<small><i>Podcast & Greenscreen Studio @ SLUB</i></small>
+</center>
+
+---
+
 # The SLUB Open Science Lab
 
 1. Bundling of advisory and educational **services** to support an open research cycle
