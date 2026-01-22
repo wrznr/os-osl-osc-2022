@@ -339,7 +339,6 @@ No data publication (GDPR), but share the **evidence generation process**.
 .fifty[
 1. **Open Protocol:**
    * Registered on [*ClinicalTrials.gov*](https://clinicaltrials.gov/) or [*DRKS*](https://www.bfarm.de/DE/Das-BfArM/Aufgaben/Deutsches-Register-Klinischer-Studien/Studienerfassung/_node.html)
-   * Detailed plan *before* execution
 2. **Open Code:**
    * Analysis scripts (R/Python) on *GitHub*
    * Allows check of statistical logic without seeing data
