@@ -328,7 +328,6 @@ count: false
 ---
 
 # Path 1: The "Sensitive" Approach
-## Example: A Clinical Trial
 
 We cannot share data publicly (GDPR), but we can share the **evidence generation process**.
 
@@ -343,8 +342,33 @@ We cannot share data publicly (GDPR), but we can share the **evidence generation
 ]
 .fifty[
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lock-green.svg/1024px-Lock-green.svg.png" width="200px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/500px-Open_Access_logo_PLoS_white_green.svg.png" width="200px"/>
 <p><b>FAIR Data</b><br>Findable: ✅<br>Accessible: 🔐 (Request)<br>Interoperable: ✅<br>Reusable: ✅ (with permission)</p>
+</center>
+]
+]
+
+---
+
+# Path 2: The "Progressive" Approach
+
+Ideal for studies where data sensitivity is low or fully anonymized.
+
+.cols[
+.fifty[
+1. **Preregistration:**
+   * **Open Science Framework (OSF)**.
+   * "Frozen" timestamped plan prevents *p-hacking* and *HARKing*.
+2. **Born-Open Workflow:**
+   * Lab notebook / Data collection openly documented.
+3. **Registered Report:**
+   * Peer review **before** results are known.
+   * Acceptance based on method, not significance of results.
+]
+.fifty[
+<center>
+<img src="https://osf.io/static/img/circle_logo.png" width="250px"/>
+<p><b>Full Transparency</b><br>Project Wiki<br>Files<br>Registration</p>
 </center>
 ]
 ]
