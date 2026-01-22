@@ -462,14 +462,15 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 * **Visibility:** "The Sagan Effect" ([Public engagement ↑ Citations](https://doi.org/10.1177/1077699014550092))
 * **Trust:** Combat misinformation directly
 * **Funding:** Often a mandatory grant deliverable
-
+<center>
+<img src="img/lndw.png" width="250px"/>
+</center>
+]
+.fifty[
 **The Channels**
 * **Digital:** Blogs, Podcasts, LinkedIn/BlueSky
 * **Physical:** Science Slams, Open Lab Days
-]
-.fifty[
 <center>
-<img src="img/lndw.png" width="250px"/>
 <img src="img/podcast.png" width="400px"/>
 </center>
 ]
@@ -558,7 +559,7 @@ The **National Research Data Infrastructure for Personal Health Data**.
 .fourty[
 <center>
 <img src="https://tu-dresden.de/med/mf/ressourcen/bilder/forschung/Zweitlogo-Treuhandstelle-Ber-Med.jpg/@@images/c61fc5d0-b589-469e-9ded-1e3f1494fd1d.jpeg" width="300px"/>
-<img src="https://upload.wikimedia.org/wikipedia/de/b/b9/Logo_Medizinische_Akademie_Dresden.svg" width="300px"/>
+<img src="https://upload.wikimedia.org/wikipedia/de/b/b9/Logo_Medizinische_Akademie_Dresden.svg" width="250px"/>
 
 </center>
 ]
@@ -584,7 +585,7 @@ The **National Research Data Infrastructure for Personal Health Data**.
 .fifty[
 **Financial Support**
 * **Publication Fund**
-   + Funding for *Gold Open Access* articles
+   + Funding for *Gold Open Access*
    + For pure OA journals 
 * **Transformation Agreements (DEAL)**
    + "Read & Publish" options
