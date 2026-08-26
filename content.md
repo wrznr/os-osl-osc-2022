@@ -44,12 +44,38 @@ count: false
 
 # Overview
 
-- Personnel
+- Intro and Personnel
 - Structure of the Workshop
   + Roads to Open Access
   + Preserving and Publishing Research Data
   + Subject-specific Research Tools
 - Path to *Open Science*?
+
+---
+
+# SLUB Dresden
+
+.fifty[
+[
+- Saxon State and **University** Library
+- Information supply
+  * Scientific literature
+  * Subject-specific expertise
+- Publication services
+  * Journal selection
+  * Author identification
+  * Financial support and licensing issues
+]
+.fifty[
+- Six locations with various offers for meeting, working, learning ...
+  * Central library (Zellescher Weg 18)
+  * DrePunct/Makerspace (Zellescher Weg 17)
+  * Open Science Lab (Zellescher Weg 25)
+  * TextLab (August-Bebel-Str. 18)
+  * Medicine library (Fiedlerstr. 27)
+  * Forestry library (Tharandt) 
+]
+]
 
 ---
 
