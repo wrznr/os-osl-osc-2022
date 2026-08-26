@@ -55,10 +55,13 @@ count: false
 
 # Personnel
 
-| ![Elena Rostova](https://via.placeholder.com/100?text=Elena) | **Elena Rostova** | Chief Executive Officer |
-| ![Marcus Vance](https://via.placeholder.com/100?text=Marcus) | **Marcus Vance** | Lead Software Architect |
-| ![Sophia Chen](https://via.placeholder.com/100?text=Sophia) | **Sophia Chen** | Head of Product Design |
-| ![David Miller](https://via.placeholder.com/100?text=David) | **David Miller** | Senior Data Analyst |
+|  | Name | Function / Role |
+| :---: | :--- | :--- |
+| <img src="https://placehold.co/100" width="100"> | **Elena Rostova** | Chief Executive Officer |
+| <img src="https://placehold.co/100" width="100"> | **Elena Rostova** | Chief Executive Officer |
+| <img src="https://placehold.co/100" width="100"> | **Elena Rostova** | Chief Executive Officer |
+| <img src="https://placehold.co/100" width="100"> | **Elena Rostova** | Chief Executive Officer |
+| <img src="https://placehold.co/100" width="100"> | **Elena Rostova** | Chief Executive Officer |
 
 ---
 
