@@ -55,6 +55,7 @@ count: false
 
 # SLUB Dresden
 
+.cols[
 .fifty[
 - Saxon State and **University** Library
 - Information supply
