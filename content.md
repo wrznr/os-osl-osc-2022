@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>2026-01-22</td>
+      <td>2026-08-26</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ count: false
   + Roads to Open Access
   + Preserving and Publishing Research Data
   + Subject-specific Research Tools
-- What is *Open Science*?
+- Path to *Open Science*?
 
 ---
 
@@ -67,7 +67,7 @@ count: false
 class: part-slide
 count: false
 
-# What is *open science*?
+# Paths to *open science*?
 
 ---
 
@@ -112,21 +112,10 @@ count: false
 </center>
 
 
-
----
-
-# The openness puzzle
-
-<center>
-<img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="550px"/>
-</center>
-
----
-
 # Open X
 
 - Not a strict terminology
-- Not a complete picture
+- Ecosystem surrounding scientific research
     + Open Innovation
     + Open Cultural Heritage
     + ...
@@ -142,33 +131,6 @@ count: false
 
 ---
 
-# Open Access
-
-.cols[
-.fifty[
-- Free access to **research results and publications** and their (un-)restricted reusability
-    + Well-established concept (approx. 60 % of TU publications are OA)
-    + Various types of OA: *gold*, *green*, *diamond*
-    + Adopted by commercial publishers
-- Often mixed with other openness aspects
-]
-.fifty[
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="250px"/>
-</center>
-]
-]
-
----
-
-# Open Access
-
-<center>
-<img src="img/ezeit.png" width="750px"/>
-</center>
-
----
-
 # Open Methodology
 
 .cols[
@@ -178,10 +140,11 @@ count: false
     + Data analysis
 - **Preregistration**: Early sharing of research questions and approach
     + Preregistered reports
-        * Twostage reviewing process
+        * Two-stage reviewing process
         * Often with early acceptance
         * **Less** file drawer research, *p*-hacking, HARKing
     + [Open Science Framework](https://osf.io)
+    + [Research Box](https://researchbox.org/)
 ]
 .fifty[
 <center>
@@ -203,6 +166,8 @@ count: false
     * Check: Did they follow the plan?
 * **Result:** Publication (regardless of null results).
     * *Medical Journals:* [*BMC Medicine*](https://link.springer.com/journal/12916/submission-guidelines/registered-reports), [*PLOS Biology*](https://doi.org/10.1371/journal.pbio.3001611), [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-018-0399-z).
+    * Computer Science Journals: [*Empirical Software Engineering*](https://link.springer.com/journal/10664/submission-guidelines), [*ACM Transactions on Human-Robot Interaction*](https://dl.acm.org/journal/thri), [*PeerJ Computer Science*](https://peerj.com/journals/computer-science) 
+    * Electronics: [*Discover Elctronics*](https://link.springer.com/journal/44291), [*HardwareX*](IEEE Transactions on Human-Machine Systems)
 ]
 .fourty[
 <center>
@@ -229,79 +194,6 @@ count: false
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
 <p style="font-size:0.5rem;margin-top:0px">By David Mellor!Original: AinaliVector: AntiCompositeNumber - https://osf.io/tvyxz/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64318717</p>
-</center>
-]
-]
-
----
-
-# Open Source
-
-.cols[
-.fifty[
-- Free access to **research software** and their (un-)restricted reusability
-    + Vast amount of possible licenses
-    + Free use vs. modifiability
-    + Adopted by software companies
-- `GitHub` as the de-facto standard for publishing research software
-- Together with OA, OM, OD → **Open Reproducible Research**
-]
-.fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/2048px-Open_Source_Initiative_keyhole.svg.png" width="650px"/>
-]
-]
-
----
-
-# Open Source
-
-<center>
-<img src="img/detectron2.png" width="750px"/>
-</center>
-
----
-
-# Open Source
-
-<center>
-<img src="img/tesseract.png" width="750px"/>
-</center>
-
----
-
-# Open Evaluation
-
-- Development of a **fair evaluation** system based on standardized protocols and transparent metrics
-    + Open peer review
-        * Open identities of authors **and** reviewers
-        * Published reviews
-        * Wider contribution possibilities for the scientific community
-    + Alternatives for measuring scientific outreach
-        * Moving beyond journal-based quality assessment (i.e. *Journal Impact Factor*)
-<center>
-<img src="img/eval.png" width="600px"/>
-</center>
-<center>
-<img src="https://tu-dresden.de/tu-dresden/newsportal/ressourcen/bilder/news-bilder/fotos-2025/Dorabadge1.png/@@images/ee5d21ad-d99a-4250-9a62-2688ce7f5977.png" width="300px"/>
-</center>
-
----
-
-# Open Educational Resources
-
-.cols[
-.fifty[
-- Free access to **teaching and learning materials** and their (un-)restricted reusability
-    + Not strictly part of Open Science
-    + Important part of an **open academic culture**
-- Dedicated platforms like `Opal` and aggregators like [`OERSI`](https://oersi.de/)
-- Increased relevance during the covid-19 pandemic
-    + Barrier-free
-]
-.fifty[
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="300px"/>
-<p style="font-size:0.5rem;margin-top:0px">By Jonathasmello - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
 </center>
 ]
 ]
@@ -422,6 +314,25 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 
 .cols[
 .fifty[
+* [*Gonçalves et al. (2022)*](https://doi.org/10.1007/s10664-022-10123-8)
+  * Effect of providing explicit and structured checklists on code review quality
+  * Comparison of professional software developers and computer science students
+  * Hypotheses and experimental design [preregistered with OSF](https://doi.org/10.17605/OSF.IO/5FPTJ)
+  * Data and materials available in a [“replication package” on Zenodo](https://doi.org/10.5281/zenodo.5653341)
+]
+.fifty[
+<center>
+<img src="https://media.springernature.com/lw400/springer-static/cover-hires/journal/10664/30/4?as=jpg" width="400px"/>
+</center>
+]
+* Started out as a conference publication [(MSR 2020)](https://2020.msrconf.org/)for the preregistered part
+* Final publication including experimental results and interpretation as a journal article
+]
+
+# Example 3:
+
+.cols[
+.fifty[
 * [*Camerer et al. (2018)*](https://doi.org/10.1038/s41562-018-0399-z)
   * **"The Social Sciences Replication Project"**
   * Replicated 21 high-profile studies from *Nature* and *Science*
@@ -434,30 +345,6 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 </center>
 * Paper itself not Open Access
 * [OSF presence](https://osf.io/pfdyw/overview) is!
-]
-]
-
----
-
-# Example 3:
-
-.cols[
-.fifty[
-* [*Errington et al. (2021)*](https://doi.org/10.7554/eLife.71601)
-    * Massive effort to replicate 50 high-impact cancer studies
-    * **Open Access** (published in *eLife*)
-<center>
-<img src="https://elifesciences.org/assets/patterns/img/patterns/organisms/elife-logo-xs.fd623d00.svg" width="400px"/>
-</center>
-]
-.fifty[
-* The outcome
-    * **46%** successful replication rate
-    * Effects were often **85% smaller** than in original papers
-    * [Preregistered](https://osf.io/collections/rpcb/) with OSF
-<center>
-<img src="https://osf.io/static/img/circle_logo.png" width="250px"/>
-</center>
 ]
 ]
 
@@ -481,6 +368,233 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 * **Physical:** Science Slams, Open Lab Days
 <center>
 <a href="https://tu-dresden.de/med/mf/imb/studium/medienpool/datensprechstunde?set_language=de"><img src="img/podcast.png" width="400px"/></a>
+</center>
+]
+]
+
+---
+
+# Local Support: Science Communication
+
+**Scope:** Professional production
+
+.cols[
+.sixty[
+**SLUB Studios** (Zentralbibliothek)
+* **Podcast Studio**
+   + 4 Mics (Røde), Headsets, *Podtrak*
+   + Software: *Audacity*, *Reaper* (Ultraschall), *Cubase*
+   + Ideal for: Interview podcasts, Audioguides
+* **Greenscreen Studio**
+   + Prof. Lighting, 4K Camera, Teleprompter
+   + Software: *OBS Studio*, *Cinector*
+   + Ideal for: Explainer videos, Course teasers
+]
+.fourty[
+<br/>
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/4/f/csm_FINAL-N6Z_7036-1-web_0705e2403b.jpg" height="200px" style="border-radius:5px"/>
+</center>
+]
+]
+
+---
+
+# Local Support: Science Communication
+
+**Scope:** Mobile equipment
+
+.cols[
+.fifty[
+<br/>
+<br/>
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/b/0/csm_140A1044_bdbf5dac48.jpg" height="200px" style="border-radius:5px"/>
+</center>
+]
+.fifty[
+**Library of Things** (Ausleihe)
+* **Mobile Equipment** (14 days loan)
+   + **Audio:** *Zoom* Recorders, Clip-on mics
+   + **Video:** *GoPro* cameras, 360° cameras
+   + **Interactive:** VR Glasses (*Oculus*), *OrCam*
+* **Post-Production**
+   + Powerful media workstations in the library
+]
+]
+
+---
+
+# The SLUB Open Science Lab
+
+1. Bundling of advisory and educational **services** to support an open research cycle
+2. Attractive and modernly equipped work, event and meeting **place**
+3. Centrally situated, university-wide **icon** for the importance of open science
+
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/5/f/csm_OSL_Aussenansicht_d712fd4562.jpg" width="300px"/>
+</center>
+
+---
+
+# Principles of Open Science at TUD
+
+**Status:** Official commitment to transparency, reproducibility, and participation.
+
+.cols[
+.fifty[
+* **Standardization:** Integration of Open Science into the daily research workflow.
+* **Open Access:** Priority for free, permanent digital access to publications.
+* **FAIR Data:** Research data should be Findable, Accessible, Interoperable, and Reusable.
+]
+.fifty[
+* **Methodological Transparency:** Promotion of Preregistration and Open Code.
+* **Evaluation:** Recognition of "Openness" in career development and hiring.
+<center>
+<img src="https://tu-dresden.de/forschung-transfer/ressourcen/bilder/Open-Science_ohne-Flaechen.jpg/@@images/73bcc831-96cb-4bee-ae0b-215d33111fb7.jpeg" width="300px"/>
+</center>
+]
+]
+
+---
+
+# Discussion: Why Open Science?
+
+<center>
+<img src="img/why.svg" width="500px"/>
+</center>
+
+---
+
+class: part-slide
+
+# Many thanks for your attention!
+
+<center>
+<a href="https://wrznr.github.io/os-osl-osc-2022/">wrznr.github.io/os-osl-osc-2022</a>
+</center>
+
+<!--
+---
+
+# Open Access
+
+.cols[
+.fifty[
+- Free access to **research results and publications** and their (un-)restricted reusability
+    + Well-established concept (approx. 60 % of TU publications are OA)
+    + Various types of OA: *gold*, *green*, *diamond*
+    + Adopted by commercial publishers
+- Often mixed with other openness aspects
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="250px"/>
+</center>
+]
+]
+
+---
+
+# Open Access
+
+<center>
+<img src="img/ezeit.png" width="750px"/>
+</center>
+
+---
+
+# Open Source
+
+.cols[
+.fifty[
+- Free access to **research software** and their (un-)restricted reusability
+    + Vast amount of possible licenses
+    + Free use vs. modifiability
+    + Adopted by software companies
+- `GitHub` as the de-facto standard for publishing research software
+- Together with OA, OM, OD → **Open Reproducible Research**
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/2048px-Open_Source_Initiative_keyhole.svg.png" width="650px"/>
+]
+]
+
+---
+
+# Open Source
+
+<center>
+<img src="img/detectron2.png" width="750px"/>
+</center>
+
+---
+
+# Open Source
+
+<center>
+<img src="img/tesseract.png" width="750px"/>
+</center>
+
+---
+
+# Open Evaluation
+
+- Development of a **fair evaluation** system based on standardized protocols and transparent metrics
+    + Open peer review
+        * Open identities of authors **and** reviewers
+        * Published reviews
+        * Wider contribution possibilities for the scientific community
+    + Alternatives for measuring scientific outreach
+        * Moving beyond journal-based quality assessment (i.e. *Journal Impact Factor*)
+<center>
+<img src="img/eval.png" width="600px"/>
+</center>
+<center>
+<img src="https://tu-dresden.de/tu-dresden/newsportal/ressourcen/bilder/news-bilder/fotos-2025/Dorabadge1.png/@@images/ee5d21ad-d99a-4250-9a62-2688ce7f5977.png" width="300px"/>
+</center>
+
+---
+
+# Open Educational Resources
+
+.cols[
+.fifty[
+- Free access to **teaching and learning materials** and their (un-)restricted reusability
+    + Not strictly part of Open Science
+    + Important part of an **open academic culture**
+- Dedicated platforms like `Opal` and aggregators like [`OERSI`](https://oersi.de/)
+- Increased relevance during the covid-19 pandemic
+    + Barrier-free
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="300px"/>
+<p style="font-size:0.5rem;margin-top:0px">By Jonathasmello - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
+</center>
+]
+]
+
+---
+
+# Example 3:
+
+.cols[
+.fifty[
+* [*Errington et al. (2021)*](https://doi.org/10.7554/eLife.71601)
+    * Massive effort to replicate 50 high-impact cancer studies
+    * **Open Access** (published in *eLife*)
+<center>
+<img src="https://elifesciences.org/assets/patterns/img/patterns/organisms/elife-logo-xs.fd623d00.svg" width="400px"/>
+</center>
+]
+.fifty[
+* The outcome
+    * **46%** successful replication rate
+    * Effects were often **85% smaller** than in original papers
+    * [Preregistered](https://osf.io/collections/rpcb/) with OSF
+<center>
+<img src="https://osf.io/static/img/circle_logo.png" width="250px"/>
 </center>
 ]
 ]
@@ -639,102 +753,4 @@ Don't just pay for Open Access.<br>
 
 ---
 
-# Local Support: Science Communication
-
-**Scope:** Professional production
-
-.cols[
-.sixty[
-**SLUB Studios** (Zentralbibliothek)
-* **Podcast Studio**
-   + 4 Mics (Røde), Headsets, *Podtrak*
-   + Software: *Audacity*, *Reaper* (Ultraschall), *Cubase*
-   + Ideal for: Interview podcasts, Audioguides
-* **Greenscreen Studio**
-   + Prof. Lighting, 4K Camera, Teleprompter
-   + Software: *OBS Studio*, *Cinector*
-   + Ideal for: Explainer videos, Course teasers
-]
-.fourty[
-<br/>
-<center>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/4/f/csm_FINAL-N6Z_7036-1-web_0705e2403b.jpg" height="200px" style="border-radius:5px"/>
-</center>
-]
-]
-
----
-
-# Local Support: Science Communication
-
-**Scope:** Mobile equipment
-
-.cols[
-.fifty[
-<br/>
-<br/>
-<center>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/b/0/csm_140A1044_bdbf5dac48.jpg" height="200px" style="border-radius:5px"/>
-</center>
-]
-.fifty[
-**Library of Things** (Ausleihe)
-* **Mobile Equipment** (14 days loan)
-   + **Audio:** *Zoom* Recorders, Clip-on mics
-   + **Video:** *GoPro* cameras, 360° cameras
-   + **Interactive:** VR Glasses (*Oculus*), *OrCam*
-* **Post-Production**
-   + Powerful media workstations in the library
-]
-]
-
----
-
-# The SLUB Open Science Lab
-
-1. Bundling of advisory and educational **services** to support an open research cycle
-2. Attractive and modernly equipped work, event and meeting **place**
-3. Centrally situated, university-wide **icon** for the importance of open science
-
-<center>
-<img src="https://www.slub-dresden.de/fileadmin/_processed_/5/f/csm_OSL_Aussenansicht_d712fd4562.jpg" width="300px"/>
-</center>
-
----
-
-# Principles of Open Science at TUD
-
-**Status:** Official commitment to transparency, reproducibility, and participation.
-
-.cols[
-.fifty[
-* **Standardization:** Integration of Open Science into the daily research workflow.
-* **Open Access:** Priority for free, permanent digital access to publications.
-* **FAIR Data:** Research data should be Findable, Accessible, Interoperable, and Reusable.
-]
-.fifty[
-* **Methodological Transparency:** Promotion of Preregistration and Open Code.
-* **Evaluation:** Recognition of "Openness" in career development and hiring.
-<center>
-<img src="https://tu-dresden.de/forschung-transfer/ressourcen/bilder/Open-Science_ohne-Flaechen.jpg/@@images/73bcc831-96cb-4bee-ae0b-215d33111fb7.jpeg" width="300px"/>
-</center>
-]
-]
-
----
-
-# Discussion: Why Open Science?
-
-<center>
-<img src="img/why.svg" width="500px"/>
-</center>
-
----
-
-class: part-slide
-
-# Many thanks for your attention!
-
-<center>
-<a href="https://wrznr.github.io/os-osl-osc-2022/">wrznr.github.io/os-osl-osc-2022</a>
-</center>
+-->
