@@ -324,9 +324,9 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 <center>
 <img src="https://media.springernature.com/lw400/springer-static/cover-hires/journal/10664/30/4?as=jpg" width="400px"/>
 </center>
-]
 * Started out as a conference publication [(MSR 2020)](https://2020.msrconf.org/)for the preregistered part
 * Final publication including experimental results and interpretation as a journal article
+]
 ]
 
 # Example 3:
