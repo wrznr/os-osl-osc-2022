@@ -29,6 +29,28 @@
 
 ---
 
+# Open Data
+
+.cols[
+.fifty[
+- Free access to **research data** and their (un-)restricted reusability
+    + Standardized metadata
+    + Documentation!
+    + Various existing publication platforms (i.e. *repositories*)
+        * Institutional (e.g. `OpARA`)
+        * Disciplinary (e.g. `PsychData`)
+        * Universal (e.g. `Zenodo`)
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
+<p style="font-size:0.5rem;margin-top:0px">By David Mellor!Original: AinaliVector: AntiCompositeNumber - https://osf.io/tvyxz/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64318717</p>
+</center>
+]
+]
+
+---
+
 # Open Source
 
 .cols[

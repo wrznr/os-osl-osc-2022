@@ -164,10 +164,6 @@ count: false
 * **Research Phase:** Conduct study.
 * **Stage 2 Peer Review:** Review of Results + Discussion.
     * Check: Did they follow the plan?
-* **Result:** Publication (regardless of null results).
-    * *Medical Journals:* [*BMC Medicine*](https://link.springer.com/journal/12916/submission-guidelines/registered-reports), [*PLOS Biology*](https://doi.org/10.1371/journal.pbio.3001611), [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-018-0399-z).
-    * Computer Science Journals: [*Empirical Software Engineering*](https://link.springer.com/journal/10664/submission-guidelines), [*ACM Transactions on Human-Robot Interaction*](https://dl.acm.org/journal/thri), [*PeerJ Computer Science*](https://peerj.com/journals/computer-science) 
-    * Electronics: [*Discover Elctronics*](https://link.springer.com/journal/44291), [*HardwareX*](IEEE Transactions on Human-Machine Systems)
 ]
 .fourty[
 <center>
@@ -175,36 +171,10 @@ count: false
 </center>
 ]
 ]
-
----
-
-# Open Data
-
-.cols[
-.fifty[
-- Free access to **research data** and their (un-)restricted reusability
-    + Standardized metadata
-    + Documentation!
-    + Various existing publication platforms (i.e. *repositories*)
-        * Institutional (e.g. `OpARA`)
-        * Disciplinary (e.g. `PsychData`)
-        * Universal (e.g. `Zenodo`)
-]
-.fifty[
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
-<p style="font-size:0.5rem;margin-top:0px">By David Mellor!Original: AinaliVector: AntiCompositeNumber - https://osf.io/tvyxz/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64318717</p>
-</center>
-]
-]
-
----
-
-class: part-slide
-count: false
-
-# Two Paths to Open Clinical Science
-
+* **Result:** Publication (regardless of null results).
+    * *Medical Journals:* [*BMC Medicine*](https://link.springer.com/journal/12916/submission-guidelines/registered-reports), [*PLOS Biology*](https://doi.org/10.1371/journal.pbio.3001611), [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-018-0399-z).
+    * Computer Science Journals: [*Empirical Software Engineering*](https://link.springer.com/journal/10664/submission-guidelines), [*ACM Transactions on Human-Robot Interaction*](https://dl.acm.org/journal/thri), [*PeerJ Computer Science*](https://peerj.com/journals/computer-science) 
+    * Electronics: [*Discover Elctronics*](https://link.springer.com/journal/44291), [*HardwareX*](IEEE Transactions on Human-Machine Systems)
 
 ---
 
