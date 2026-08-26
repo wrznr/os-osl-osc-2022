@@ -300,6 +300,8 @@ Ideal for studies where data sensitivity is low or fully anonymized.
 ]
 ]
 
+---
+
 # Example 3:
 
 .cols[
