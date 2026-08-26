@@ -57,7 +57,7 @@ count: false
 
 |  | Name | Function / Role |
 | :---: | :--- | :--- |
-| <img src="https://verfassungsblog.de/wp-content/uploads/2025/12/JHa-1024x1024.jpg" style="width: 100px; height: 100px; object-fit: cover; object-position: center 30%;"> | **Josephine Hartwig** | FR politics and social science, Team Publia |
+| <img src="https://verfassungsblog.de/wp-content/uploads/2025/12/JHa-1024x1024.jpg" style="width: 100px; height: 100px; object-fit: cover; object-position: center 20%;"> | **Josephine Hartwig** | FR politics and social science, Team Publia |
 | <img src="https://www.slub-dresden.de/fileadmin/_processed_/0/6/csm_Schumm_Jana_4e6e4ebaeb.jpg" width="100"> | **Jana Schumm** | FR medicine, acquisition management |
 | <img src="https://www.slub-dresden.de/fileadmin/_processed_/4/b/csm_kmw_square_2536ffcfd4.jpg" width="100"> | **Kay-Michael Würzner** | FR computer science, research-related services |
 | <img src="https://www.slub-dresden.de/fileadmin/_processed_/c/c/csm_k_zinke_122024_hoch_f85ee5e3a2.jpg" width="100"> | **Katharina Zinke** | FR psychology, research data management |
