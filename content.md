@@ -56,7 +56,6 @@ count: false
 # SLUB Dresden
 
 .fifty[
-[
 - Saxon State and **University** Library
 - Information supply
   * Scientific literature
