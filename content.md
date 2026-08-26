@@ -25,10 +25,10 @@ layout: true
       <td style="text-align:left">Research-related services</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>2026-01-22</b></td>
+      <td style="font-size:8pt"><b>2026-08-26</b></td>
     </tr>
     <tr>
-      <td style="font-size:8pt">Dresden School of Clinical Science: Key competencies</td>
+      <td style="font-size:8pt">Centre for Tactile Internet with Human-in-the-Loop</td>
     </tr>
   </table>
 </div>
@@ -38,15 +38,27 @@ layout: true
 class: title-slide
 count: false
 
-# How to practice Open Science
+# Services for a sustainable and transparent research process
 
 ---
 
 # Overview
 
+- Personnel
+- Structure of the Workshop
+  + Roads to Open Access
+  + Preserving and Publishing Research Data
+  + Subject-specific Research Tools
 - What is *Open Science*?
-- Paths to Open Science
-- Support Structures
+
+---
+
+# Personnel
+
+| ![Elena Rostova](https://via.placeholder.com/100?text=Elena) | **Elena Rostova** | Chief Executive Officer |
+| ![Marcus Vance](https://via.placeholder.com/100?text=Marcus) | **Marcus Vance** | Lead Software Architect |
+| ![Sophia Chen](https://via.placeholder.com/100?text=Sophia) | **Sophia Chen** | Head of Product Design |
+| ![David Miller](https://via.placeholder.com/100?text=David) | **David Miller** | Senior Data Analyst |
 
 ---
 
